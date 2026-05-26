@@ -22,7 +22,6 @@ and fabricated in approximately three weeks.
 - [Chassis Engineering](./chassis/README.md)
 - [Aerodynamics](./aerodynamics/README.md)
 - [Composites & Body](./composites/README.md)
-- [FEA & Structural Validation](./fea/README.md)
 - [Design Decisions Log](./docs/design-decisions.md)
 
 ## My Role
