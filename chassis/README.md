@@ -27,3 +27,12 @@ Same safety factor, thinner walls, less mass — that's the whole game on a sola
 ## Fabrication
 Fabricated at **Mecrox Tech Pvt. Ltd., Gurugram** with on-site oversight.  
 Tube notching (profiling tube ends for tight mating joints) done manually.
+
+## CAD Files
+
+| File | Description |
+|---|---|
+| `Chassis.STEP` | Full spaceframe assembly — open in SolidWorks or any STEP-compatible viewer |
+
+The model includes real section profiles assigned to each member via SolidWorks Weldments.
+Torsional rigidity and load case validations were run directly on this geometry.
