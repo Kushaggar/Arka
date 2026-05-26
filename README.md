@@ -1,5 +1,5 @@
 # Arka — Solar Vehicle
-**Bharat Solar Vehicle Challenge (BSVC) 2025 | Team DTU Supermileage | Coimbatore**
+**Bharat Solar Vehicle Challenge (BSVC) 2025 | Team DTU Supermileage**
 
 Arka (Sanskrit for *the sun*) is a solar-powered race vehicle designed and built by Team DTU Supermileage 
 for BSVC 2025. The entire vehicle — chassis, composite body, and aerodynamic shell — was designed 
